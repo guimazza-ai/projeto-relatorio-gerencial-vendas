@@ -107,6 +107,6 @@ O relatório foi estruturado para fornecer uma visão clara e interativa do dese
 
 ## 🏆 Projeto
 
-- [Projeto - Analíse de Vendas](https://github.com/guimazza-ai/projeto-criacao-visuais-power-bi/blob/main/Projeto/Projeto_Analise%20de%20Vendas.pbix)
-- [Base de Dados - Financial Sample](https://github.com/guimazza-ai/projeto-criacao-visuais-power-bi/blob/main/Projeto/Financial%20Sample.xlsx)
-- [Apresentação - Analíse de Vendas](https://github.com/guimazza-ai/projeto-criacao-visuais-power-bi/blob/main/Projeto/Porjeto%20Anal%C3%ADse%20de%20Vendas.pptx)
+- [Projeto - Relatório Gerencial de Vendas](https://github.com/guimazza-ai/projeto-relatorio-gerencial-vendas/blob/main/Projeto/Projeto_Relatorio%20Gerencial%20de%20Vendas.pbix)
+- [Base de Dados - Financial Sample](https://github.com/guimazza-ai/projeto-relatorio-gerencial-vendas/blob/main/Projeto/Financial%20Sample.xlsx)
+- [Apresentação - Relatório Gerencial de Vendas](https://github.com/guimazza-ai/projeto-relatorio-gerencial-vendas/blob/main/Projeto/Apresenta%C3%A7%C3%A3o_Relat%C3%B3rio%20Gerencial%20de%20Vendas.pptx)
